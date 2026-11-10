@@ -235,4 +235,4 @@ Draw.io
 ⭐ Support
 If you find this project useful for learning SQL or Database Management Systems, consider giving the repository a star.
 
-Developed by Sameer Mishra.
+
